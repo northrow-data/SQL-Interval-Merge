@@ -78,5 +78,3 @@ python -m unittest -v
 No holds · single hold · two separate holds · partial overlap · nested hold · adjacent (touching) holds · exact duplicate · bad row (end before start) · chain of overlaps · long hold swallowing later short holds · one-day hold · open hold · hold starting before the ticket opens · hold ending after the ticket closes · hold entirely outside the ticket window.
 
 ---
-
-Brandon Watson · Reporting analyst (SQL Server, SSRS, Python) · [LinkedIn](https://www.linkedin.com/in/brandonjwatson)
